@@ -31,7 +31,7 @@ restart-occs:
     # Manage Oracle Container Cloud Service container
     - script:
         occs_admin_user: $OCCS_ADMIN_USER
-        occs_password: $OCCS_PASSWORD
+        occs_password: $OCCS_ADMIN_PASSWORD
         occs_manager_ip: $OCCS_MANAGER_IP
         occs_webhook_url: $OCCS_WEBHOOK_URL
         curl -v -sk -X "POST" -u "$occs_admin_user:$occs_password" --url "https://$occs_manager_ip$occs_webhook_url"
