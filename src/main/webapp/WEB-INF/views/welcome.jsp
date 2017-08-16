@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>Oracle Public Cloud Demo Aug 16</title>
+<title>Oracle Public Cloud Demo Aug 16 2017</title>
 
 </head>
 <body>
