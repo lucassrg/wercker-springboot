@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>Oracle Public Cloud Demo Aug 16 2017</title>
+<title>Oracle Public Cloud Demo Oct 18 2017</title>
 
 </head>
 <body>
@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff">Oracle Container Cloud Service + Wercker - Lucas Demo - Oct 18</a>
+          <a style="color: #ffffff">Oracle Container Cloud Service + Wercker - Lucas Demo - Oct 18 2017</a>
         </h1>
       </div>
 
